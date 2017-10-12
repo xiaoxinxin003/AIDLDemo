@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AIDLDemo</string>
+    <string name="unbind_service">unbind</string>
+    <string name="bind_service">bind</string>
+</resources>
